@@ -1,0 +1,25 @@
+.about_div{
+    background-color: white;
+    color: black;
+}
+
+.about_p{
+    text-align: left;
+}
+
+.about_h1{
+    font-weight: bold;
+    text-align: center;
+}
+.about_h3{
+    font-weight: bold;
+    text-align: left;
+}
+.about_h5{
+    font-weight: bold;
+    text-align: left;
+}
+.about_h2{
+    font-weight: bold;
+    text-align: left;
+}

@@ -1,0 +1,233 @@
+body{
+    background-color: black;
+}
+.SignIn_div{
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("D:\Lalith\Reactgroupproject\project\src\component\SignUp\bg2.jpg");
+}
+
+#fieldset{
+    margin: auto;
+    height: auto;
+    width: 360px;
+    font-size: large;
+    background-color: transparent;
+    font-weight: 700;
+    border-radius: 20px;
+}
+
+
+.Name input{
+    height: 50px;
+    width: 400px;
+    background: black;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 19px;
+    border-radius: 20px;
+}
+.E-mail input{
+    height: 50px;
+    width: 400px;
+    background: black;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 19px;
+    border-radius: 20px;
+}
+.Number input{
+    height: 50px;
+    width: 400px;
+    background: black;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 19px;
+    border-radius: 20px;
+}
+.Password input{
+    height: 50px;
+    width: 400px;
+    background: black;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 19px;
+    border-radius: 20px;
+}
+.Password1 input{
+    height: 50px;
+    width: 400px;
+    background: black;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 19px;
+    border-radius: 20px;
+}
+
+.LogIn{
+    margin: -20px;
+    border: none;
+    outline: none;
+    font-size: large;
+    color: blue;
+    text-decoration-line: underline;
+    text-underline-position: auto;
+    background: none;
+    cursor: pointer;
+}
+
+.SignIn{
+    font-size: large;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+button {
+    font: inherit;
+    cursor: pointer;
+    border: 1px solid black;
+    padding: 5px 20px;
+    border-radius: 4px;
+}
+tr{
+    color: black;
+
+}
+p{
+    color:rgb(7, 0, 0);
+}
+#field{
+    width: 360px;
+    text-align: center;
+    margin: auto;
+    background-color: transparent;
+    font-weight: 700;
+    border-radius: 20px;
+
+}
+#field1{
+    width: 360px;
+    text-align: center;
+    margin: auto;
+    background-color: transparent;
+    font-weight: 700;
+    border-radius: 20px;
+
+}
+
+.Pincode input{
+    height: 50px;
+    width: 400px;
+    background: black;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 19px;
+    border-radius: 20px;
+}
+.HouseNo input{
+    height: 50px;
+    width: 400px;
+    background: black;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 19px;
+    border-radius: 20px;
+}
+.FloorNo input{
+    height: 50px;
+    width: 400px;
+    background: black;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 19px;
+    border-radius: 20px;
+}
+.TowerNo input{
+    height: 50px;
+    width: 400px;
+    background: black;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 19px;
+    border-radius: 20px;
+}
+.BuildingName input{
+    height: 50px;
+    width: 400px;
+    background: black;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 19px;
+    border-radius: 20px;
+}
+.Address input{
+    height: 50px;
+    width: 400px;
+    background: black;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 19px;
+    border-radius: 20px;
+}
+.Area input{
+    height: 50px;
+    width: 400px;
+    background: black;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 19px;
+    border-radius: 20px;
+}
+.CityState input{
+    height: 50px;
+    width: 400px;
+    background: black;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 19px;
+    border-radius: 20px;
+}
+.Name input{
+    height: 50px;
+    width: 400px;
+    background: black;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 19px;
+    border-radius: 20px;
+}
+.Number1 input{
+    height: 50px;
+    width: 400px;
+    background: black;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 19px;
+    border-radius: 20px;
+}
+

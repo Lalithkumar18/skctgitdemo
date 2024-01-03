@@ -1,0 +1,110 @@
+body{
+    background-color: black;
+}
+.Login_div{
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("D:\Lalith\Reactgroupproject\project\src\component\Login\bg2.jpg");
+}
+
+#fieldset{
+    text-shadow: 20px;
+    height: 60vh;
+    width: 360px;
+    margin: auto;
+    border: 1px solid rgb(0, 0, 0);
+    font-size: x-large;
+    background-color: transparent;
+    font-weight: 700;
+    border-radius: 20px;
+    text-align: center;
+}
+.Remember{
+    text-align: right;
+    font-size: large;
+}
+.h1{
+    text-align: center;
+    color:black;
+}
+.or{
+    text-align: center;
+}
+
+.Number input{
+    height: 50px;
+    width: 400px;
+    background: black;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 19px;
+    border-radius: 20px;
+}
+
+.Email input{
+    height: 50px;
+    width: 400px;
+    background: black;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 19px;
+    border-radius: 20px;
+}
+.Password input{
+    height: 50px;
+    width: 400px;
+    background: black;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 19px;
+    border-radius: 20px;
+}
+.ForgetPassword{
+    font-size: large;
+}
+.User{
+    font-size: large;
+}
+.LogInButton{
+    font-size: large;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+.Up{
+    margin: -20px;
+    border: none;
+    outline: none;
+    font-size: large;
+    color: blue;
+    text-decoration-line: underline;
+    text-underline-position: auto;
+    background: none;
+    cursor: pointer;
+}
+.ClickHere{
+    margin: -20px;
+    border: none;
+    outline: none;
+    font-size: large;
+    color: blue;
+    text-decoration-line: underline;
+    text-underline-position: auto;
+    background: none;
+    cursor: pointer;
+}
+.AnotherLogIn{
+    font-size: large;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+.div{
+    text-align: center;
+}

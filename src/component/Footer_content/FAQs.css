@@ -1,0 +1,19 @@
+.FAQs_h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+}
+.FAQs_h3{
+    text-align: left;
+    font-weight: bold;
+    font-size: x-large;
+}
+.FAQs_p{
+    text-align: left;
+    margin: 20px;
+}
+
+.FAQs_div{
+    background-color: white;
+    color: black;
+}

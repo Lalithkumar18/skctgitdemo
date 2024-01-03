@@ -1,0 +1,35 @@
+.body-div{
+    height: 700px;
+    background-color: rgb(121, 220, 121);
+    background-image: url("D:\Lalith\Reactgroupproject\project\src\component\Body\image2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h{
+    font-size: xx-large;
+    font-weight: bold;
+}
+.p{
+    font-size: large;
+}
+.ShopNow{
+    font-size: large;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+.fieldset{
+    position: absolute;
+    right: 0;
+    border: none;
+}
+.fieldset1{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    border: none;
+}
+.form{
+    text-align: left;
+}

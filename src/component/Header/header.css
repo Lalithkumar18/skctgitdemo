@@ -1,0 +1,74 @@
+.navbar
+{
+    margin: 0%;
+    width: 1280px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #ffffff;
+    padding: 15px 7%;
+    background-color: black;
+}
+ul{
+    flex:1;
+    list-style: none;
+    text-align: center;
+}
+ul li{
+    display: inline;
+    margin:10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+}
+.H
+{
+    color: green;
+}
+.L{
+    color: rgb(76, 218, 86);
+}
+button{
+    display: inline;
+    margin:10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    text-align: center;
+}
+.search-box
+{
+    display: flex;
+    align-items: center;
+    border-radius: 50px;
+    padding: 10px 20px;
+    background: rgb(248, 245, 245);
+}
+.search-box input{
+    padding:6px;
+    background: transparent;
+    border: 0;
+    outline: 0;
+    color: #000000;
+    font-size: 18px;
+    max-width: 200px;
+}
+.search-box :-ms-input::placeholder{
+    color:#fff;
+}
+.logo
+{
+    height: 100px;
+    width: 100px;
+    cursor:pointer;
+}
+.search-box img{
+    width: 20px;
+    cursor: pointer;
+}
+.co{
+    color: black;
+}
+.profileIcon{
+    height: 50px;
+    width: 50px;
+}
